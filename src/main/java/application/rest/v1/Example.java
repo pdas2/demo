@@ -18,7 +18,7 @@ public class Example {
 
 public Response hello()
 {
-	return Response.ok("hello worlds testing phase99000").build();
+	return Response.ok("hello worlds testing phase990000").build();
 }
 
 
